@@ -1,2 +1,10 @@
+Theory in Computer vision:
+
 Harris corner detection, explanation
 https://www.cnblogs.com/jiahenhe2/p/7930802.html
+
+
+Caffe:
+
+Convert a caffemodel weights file to fully convolutional network model weights file
+http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/net_surgery.ipynb
