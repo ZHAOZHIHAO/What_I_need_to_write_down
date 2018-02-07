@@ -14,9 +14,9 @@ MOT source codes:
 
 KSP: Multiple Object Tracker Using K-Shortest Paths
 Language: C   
-download here: http://download.csdn.net/download/lizilong_1/5833583
-Readme here: https://cvlab.epfl.ch/software/ksp
-online comment here http://blog.csdn.net/ai_vivi/article/details/41082959
+Code: http://download.csdn.net/download/lizilong_1/5833583
+Readme: https://cvlab.epfl.ch/software/ksp
+Online comment: http://blog.csdn.net/ai_vivi/article/details/41082959
 
 Structure preserving object tracking & Preserving structure in model-free tracking
 Language: MATLAB/C++ 
@@ -37,3 +37,5 @@ Code: https://github.com/bochinski/iou-tracker/
 Language: Python
 Hightlight: 1.  1522 fps on MOT17 dataset. 
             2.  Result on MOT17 can be seen at https://motchallenge.net/tracker/IOU17 .Include result numbers and videos.
+Online comment: http://blog.csdn.net/zhangjunhit/article/details/78911287
+
