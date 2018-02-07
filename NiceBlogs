@@ -30,3 +30,4 @@ Speed: 0.27s per frame on PASCAL VOC baskteball.
 Multiple Hypothesis Tracking Revisited
 Code: http://rehg.org/mht/
 Language: MATLAB
+Highlight: Result on MOT17 can be seen at https://motchallenge.net/tracker/MHT_DAM_17 . Include result numbers and videos.
