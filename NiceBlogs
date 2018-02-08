@@ -44,3 +44,12 @@ The Way They Move: Tracking Targets with Similar Appearance
 Code: https://bitbucket.org/cdicle/smot
 Language: MATLAB
 Note: This code seems can't draw boudning box though there is bounding box in paper.
+
+Joint Probabilistic Matching Using m-Best Solutions
+Code & readme: https://bitbucket.org/amilan/m-best/src (Download code by the Downloads button at the left bar)
+Language: MATLAB
+Sample result: http://www.milanton.de/m-best/index.html
+Reproduction: You need Gurobi package for matlab
+              Download Gurobi here http://www.gurobi.com/downloads/download-center (The author uses 6.5.1 version)
+              You need to change the Gurobi path in AddPath.m
+              
