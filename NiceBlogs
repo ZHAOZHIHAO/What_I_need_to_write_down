@@ -43,4 +43,4 @@ Note: This code uses existing detections to produce association. The output file
 The Way They Move: Tracking Targets with Similar Appearance 
 Code: https://bitbucket.org/cdicle/smot
 Language: MATLAB
-Note: This code seems can't deal with new object appearing.
+Note: This code seems can't draw boudning box though there is bounding box in paper.
