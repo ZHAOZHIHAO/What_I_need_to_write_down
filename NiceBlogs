@@ -39,3 +39,8 @@ Hightlight: 1.  1522 fps on MOT17 dataset.
             2.  Result on MOT17 can be seen at https://motchallenge.net/tracker/IOU17 .Include result numbers and videos.
 Online comment: http://blog.csdn.net/zhangjunhit/article/details/78911287
 Note: This code uses existing detections to produce association. The output file is a .txt file, with format in https://motchallenge.net/instructions/.
+
+The Way They Move: Tracking Targets with Similar Appearance 
+Code: https://bitbucket.org/cdicle/smot
+Language: MATLAB
+Note: This code seems can't deal with new object appearing.
