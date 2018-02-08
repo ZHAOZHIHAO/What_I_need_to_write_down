@@ -41,7 +41,7 @@ Online comment: http://blog.csdn.net/zhangjunhit/article/details/78911287
 Note: This code uses existing detections to produce association. The output file is a .txt file, with format in https://motchallenge.net/instructions/.
 
 The Way They Move: Tracking Targets with Similar Appearance 
-Code: https://bitbucket.org/cdicle/smot
+Code & readme: https://bitbucket.org/cdicle/smot
 Language: MATLAB
 Note: This code seems can't draw boudning box though there is bounding box in paper.
 
@@ -53,3 +53,6 @@ Reproduction: You need Gurobi package for matlab
               Download Gurobi here http://www.gurobi.com/downloads/download-center (The author uses 6.5.1 version)
               You need to change the Gurobi path in AddPath.m
               
+Discrete-Continuous Optimization for Multi-Target Tracking & Detection- and Trajectory-Level Exclusion in Multiple Object Tracking
+Code & readme: https://bitbucket.org/amilan/dctracking/overview (Download code by the Downloads button at the left bar, or follow the readme)
+Sample result: http://www.milanton.de/dctracking/
