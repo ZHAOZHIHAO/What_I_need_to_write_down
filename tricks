@@ -1,3 +1,4 @@
 Convert images to a video via ffmpeg
-Example: ffmpeg -framerate 24 -i img%03d.png output.mp4
+Example: ffmpeg -framerate 4 -i 000%3d.jpg -vcodec mpeg4 -b 800k output.mp4
 Detail: https://trac.ffmpeg.org/wiki/Slideshow
+The output video may be blured compared to the original images, here is a solution: https://stackoverflow.com/questions/3158235/image-sequence-to-video-quality
