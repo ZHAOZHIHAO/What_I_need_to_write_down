@@ -1,0 +1,39 @@
+Readme on running *** with Docker:
+
+1. Install docker
+    sudo apt-get install -y docker.io
+
+2. Build the docker image
+    cd $summarization_docker
+    sudo docker build -t zz:sum .
+
+3. Install x11-xserver-utils #prepare for 4
+    sudo apt-get install x11-xserver-utils
+
+4. Let Docker container use the display divice on localhost
+    xhost + (This is a command)
+
+5. Run docker image
+    sudo docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY zz:sum /bin/bash
+    # About the command :
+    # -it : interactive terminal 
+    # -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=$DISPLAY : let Docker container use the display divice on localhost
+    # zz:sum : image name
+    # /bin/bash : interactive shell terminal in the container
+
+6. Run the code
+    service mysql start
+    cd /summarization_20171228/src
+    # for quick testing, set MAX_FRAME_NUMBER in setting.py to a small value
+    python3 getObjInfor.py
+    # for the default input video cut2.mp4, replyByStoredMasks.py gives better result
+    python3 replyByStoredMasks.py
+    # see the analysis result
+    python3 analysis.py
+    
+7. See the result
+    To see images, use 'eog image_name'
+    To see videos, use 'vlc video_name'
+
+optional:
+    Docker images use a lot disk space. You can delete them with 'sudo docker system prune -a'.
