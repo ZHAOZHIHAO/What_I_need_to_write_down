@@ -1,5 +1,5 @@
 When it's hard to deisgn loss function, e.g, in unsupervised problem, maybe we can input some values by hand as designed loss, 
 then let the network learn the proper loss.
 
-背景虚化
+背景虚化（Bokeh）
 Multiple Object Recognition with Focusing and Blurring
