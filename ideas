@@ -1,5 +1,8 @@
 When it's hard to deisgn loss function, e.g, in unsupervised problem, maybe we can input some values by hand as designed loss, 
 then let the network learn the proper loss.
 
+When segment images, if we only want some specific objects, for example, persons, can we accelerate the inference process since we do
+not need labels on other categories?
+
 背景虚化（Bokeh）
 Multiple Object Recognition with Focusing and Blurring
