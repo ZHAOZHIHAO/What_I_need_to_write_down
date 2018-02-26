@@ -16,6 +16,9 @@ detection       73.9        73.1       ImageNet VID
 segmetation     71.1        69.2       Cityscapes
 I think the small loss of accuracy can be ingored.
 
+One-Shot Video Object Segmentation
+code: http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/
+
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
 https://github.com/openai/universe
