@@ -5,6 +5,7 @@ Very very good result, code available on github
 Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
 
 Deep Feature Flow for Video Recognition
+code: https://github.com/msracver/Deep-Feature-Flow
 Fast object detection and segmentation in a video. 
 22.25fps reported on the Cityscapes andImageNet VID dataset with NVIDIA K40 GPU and Intel Core i7-4790 CPU.
 The naive per-frame method runs 4.05 fps.
