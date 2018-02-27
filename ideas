@@ -3,6 +3,10 @@ then let the network learn the proper loss.
 
 When segment images, if we only want some specific objects, for example, persons, can we accelerate the inference process since we do
 not need labels on other categories?
+May help: In [39], activations from shallow layers are gradually injected into the prediction to favor localization. However, 
+these architectures come with many more trainable parameters and their use is limited to cases with sufficient data.
+Learning to refine object segments. In ECCV, 2016. 
+
 
 背景虚化（Bokeh）
 Multiple Object Recognition with Focusing and Blurring
