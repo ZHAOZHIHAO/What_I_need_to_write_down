@@ -1,23 +1,28 @@
 Papers:
 When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion and Sentiment
 
-Very very good result, code available on github
-Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+1. Very very good result, code available on github
+   Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
 
-Deep Feature Flow for Video Recognition
-code: https://github.com/msracver/Deep-Feature-Flow
-Fast object detection and segmentation in a video. 
-22.25fps reported on the Cityscapes andImageNet VID dataset with NVIDIA K40 GPU and Intel Core i7-4790 CPU.
-The naive per-frame method runs 4.05 fps.
-Comparsion between the naive method, which can be seen as any state of the art segmentation and detection algorithom perform on every frame,
-and the proposed method, is as follwing:
-              per-frame    proposed    dataset
-detection       73.9        73.1       ImageNet VID
-segmetation     71.1        69.2       Cityscapes
-I think the small loss of accuracy can be ingored.
+2. Deep Feature Flow for Video Recognition
+  code: https://github.com/msracver/Deep-Feature-Flow
+  Fast object detection and segmentation in a video. 
+  22.25fps reported on the Cityscapes andImageNet VID dataset with NVIDIA K40 GPU and Intel Core i7-4790 CPU.
+  The naive per-frame method runs 4.05 fps.
+  Comparsion between the naive method, which can be seen as any state of the art segmentation and detection algorithom perform on every frame,
+  and the proposed method, is as follwing:
+                per-frame    proposed    dataset
+  detection       73.9        73.1       ImageNet VID
+  segmetation     71.1        69.2       Cityscapes
+  I think the small loss of accuracy can be ingored.
 
-One-Shot Video Object Segmentation
-code: http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/
+3. One-Shot Video Object Segmentation
+   code: http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/
+
+4. Zero-Shot Learning - The Good, the Bad and the Ugly
+  Many zero-shot got very very bad result in the wild, only good at the dataset the authors used.
+  The author tried almost all zero shot methods and released code at  https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/
+
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
@@ -38,3 +43,4 @@ http://www.yaronhadad.com/deep-learning-most-amazing-applications/
 
 Comments on many CVPR2017 papers
 http://blog.csdn.net/zhangjunhit/article/category/6801399
+
