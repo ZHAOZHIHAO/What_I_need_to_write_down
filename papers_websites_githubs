@@ -23,6 +23,9 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
   Many zero-shot got very very bad result in the wild, only good at the dataset the authors used.
   The author tried almost all zero shot methods and released code at  https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/
 
+5. Deep Image Matting
+   Code(implenmented a baidu engineer): https://github.com/Joker316701882/Deep-Image-Matting
+   His comment here: http://blog.leanote.com/post/calebge/Deep-Image-Matting%E5%A4%8D%E7%8E%B0%E8%BF%87%E7%A8%8B%E6%80%BB%E7%BB%93
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
@@ -46,4 +49,3 @@ http://blog.csdn.net/zhangjunhit/article/category/6801399
 
 a blog on MXNET: simple introduction
 http://blog.csdn.net/u013713010/article/details/71635814http://blog.csdn.net/u013713010/article/details/71635814
-
