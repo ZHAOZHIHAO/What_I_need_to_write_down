@@ -2,7 +2,8 @@ Readme on running *** with Docker:
 
 1. Install docker
     i.(not the latest release) sudo apt-get install -y docker.io
-    ii. (latest release) https://gist.github.com/subfuzion/90e8498a26c206ae393b66804c032b79
+    ii. (latest release) curl -fsSL https://get.docker.com/ | sh
+        or other ways in https://gist.github.com/subfuzion/90e8498a26c206ae393b66804c032b79
     iii. (GPU, nvidia-docker) 
           a. Please use latest release for safty. 
           b. - Follow Quickstart part on https://github.com/NVIDIA/nvidia-docker 
