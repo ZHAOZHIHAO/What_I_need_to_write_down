@@ -3,6 +3,15 @@ Readme on running *** with Docker:
 1. Install docker
     i.(not the latest release) sudo apt-get install -y docker.io
     ii. (latest release) https://gist.github.com/subfuzion/90e8498a26c206ae393b66804c032b79
+    iii. (GPU, nvidia-docker) 
+          a. Please use latest release for safty. 
+          b. - Follow Quickstart part on https://github.com/NVIDIA/nvidia-docker 
+             - If you meet problem related to docker-ce version, just install the required the version. For example:
+             sudo apt-get install docker-ce=17.12.0~ce-0~ubuntu
+             - If the test command "docker run --runtime=nvidia --rm nvidia/cuda nvidia-smi" failed, see the error information.
+               If it's caused by CUDA version(at the very end of the error information), pull another correct nvidia/cuda version.
+               You can see all the tags of nvidia/cuda here https://hub.docker.com/r/nvidia/cuda/tags/.
+               Then test it again.
     
 2. Build the docker image
     cd $summarization_docker
