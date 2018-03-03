@@ -1,8 +1,9 @@
 Readme on running *** with Docker:
 
 1. Install docker
-    sudo apt-get install -y docker.io
-
+    i.(not the latest release) sudo apt-get install -y docker.io
+    ii. (latest release) https://gist.github.com/subfuzion/90e8498a26c206ae393b66804c032b79
+    
 2. Build the docker image
     cd $summarization_docker
     sudo docker build -t zz:sum .
