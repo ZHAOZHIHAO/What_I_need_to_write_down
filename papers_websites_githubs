@@ -33,7 +33,7 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
    
 6. Understanding Black-box Predictions via Influence Functions
    Someone's comment: https://github.com/eolecvk/InfluenceFunctions/blob/master/review.pdf
-
+   Another comment: http://nooverfit.com/wp/icml-2017%E8%AE%BA%E6%96%87%E7%B2%BE%E9%80%891-%E7%94%A8%E5%BD%B1%E5%93%8D%E5%87%BD%E6%95%B0%E7%90%86%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E9%BB%91%E7%9B%92%E9%A2%84/
 7. Convexified Convolutional Neural Networks
    official code: https://github.com/zhangyuc/CCNN
 
