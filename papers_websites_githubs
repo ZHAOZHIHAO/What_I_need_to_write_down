@@ -31,6 +31,8 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
 5. Focal Loss for Dense Object Detection
    Unoffical code: https://github.com/unsky/focal-loss
    
+6. Understanding Black-box Predictions via Influence Functions
+   
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
