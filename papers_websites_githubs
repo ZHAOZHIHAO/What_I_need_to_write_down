@@ -32,6 +32,10 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
    Unoffical code: https://github.com/unsky/focal-loss
    
 6. Understanding Black-box Predictions via Influence Functions
+   Someone's comment: https://github.com/eolecvk/InfluenceFunctions/blob/master/review.pdf
+
+7. Convexified Convolutional Neural Networks
+   official code: https://github.com/zhangyuc/CCNN
    
 
 Githubs:
