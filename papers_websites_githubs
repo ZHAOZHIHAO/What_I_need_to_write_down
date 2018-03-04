@@ -36,6 +36,12 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
 
 7. Convexified Convolutional Neural Networks
    official code: https://github.com/zhangyuc/CCNN
+
+8. On Calibration of Modern Neural Networks
+   [来自知乎] 也是在deep learning session, 也是百分之百的实验。不过它报告了一个俺从来没有注意过的有趣现象：
+   基于深度网络的分类器输出的class label probability 都over-confident；而这种现象在浅层网络中并不存在。这后面没准有东西可以挖一挖。
+
+
    
 
 Githubs:
