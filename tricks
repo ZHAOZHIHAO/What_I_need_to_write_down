@@ -1,8 +1,0 @@
-Convert images to a video via ffmpeg
-Example: ffmpeg -framerate 4 -i 000%3d.jpg -vcodec mpeg4 -b 800k output.mp4
-Detail: https://trac.ffmpeg.org/wiki/Slideshow
-The output video may be blured compared to the original images, here is a solution: https://stackoverflow.com/questions/3158235/image-sequence-to-video-quality
-
- ffmpeg  -f alsa -ac 2 -i pulse -f x11grab -r 15 -s $(xdpyinfo|grep 'dimensions:'|cut -c14-26) -i :0.0+0,0 -acodec flac -vcodec mpeg4 -qscale 0 -y ~/out.mkv ;
- 
- ffmpeg -video_size 1024x768 -framerate 25 -f x11grab -i :0.0+0,0 -f alsa -ac 2 -i hw:0  -qscale 0 output.mkv;
