@@ -9,3 +9,6 @@ ffmpeg -video_size 1024x768 -framerate 25 -f x11grab -i :0.0+0,0 -f alsa -ac 2 -
 
 3. Check CPU info, including supported instructions
 cat /proc/cpuinfo
+
+4. Timing a terminal command
+Add time before the command you want to measure.
