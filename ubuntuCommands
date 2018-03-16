@@ -12,3 +12,15 @@ cat /proc/cpuinfo
 
 4. Timing a terminal command
 Add time before the command you want to measure.
+
+5. Script that copies *0002.jpg and *0001.jpg in any folder if *0002.jpg exist in that folder.
+
+for file in ./* ; do
+	if find ./$file -name "*0002.jpg"|grep -q . ; then  #find always returns true, so add grep
+		echo "Copying files in $file."
+		cp  ./$file/*0002.jpg ./lfw_test
+		cp  ./$file/*0001.jpg ./lfw_stored
+	else
+		echo "Only one file found in directory $file."
+	fi
+done
