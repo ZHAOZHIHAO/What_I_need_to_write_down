@@ -98,6 +98,8 @@ https://www.cnblogs.com/zhangchaoyang/articles/6684906.html
 
 12. CVPR2017 Image Caption有关论文总结
 https://zhuanlan.zhihu.com/p/30893160
+My: 第三篇Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition里面的黑体"ours"不是最好的"ours"，而是“with a removed”的一个测试，
+证明他们的trick有效的。第三篇效果比第一篇效果要好的。可以对比第一篇的table 4和第三篇的table 2
 
 13. The Unreasonable Effectiveness of Recurrent Neural Networks
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
