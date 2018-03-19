@@ -24,3 +24,7 @@ for file in ./* ; do
 		echo "Only one file found in directory $file."
 	fi
 done
+
+6. Find available versions for tensorflow   
+curl -s https://storage.googleapis.com/tensorflow |xmllint --format - |grep whl
+https://stackoverflow.com/questions/40416056/how-to-download-previous-version-of-tensorflow
