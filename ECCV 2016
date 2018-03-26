@@ -1,0 +1,70 @@
+*: must look 
+!:take a look
+%: look if you want
+_: read fast is ok
+
+Oral:
+Detection
+Face Alignment
+Facial Landmark Detection
+Image caption
+	visual relationship detection with language priors
+Ambient Sound Provides Supervision for Visual Learning
+Improving Multi-label Learning with Missing Labels by Structured Semantic Correlations
+An Efficient Fusion Move Algorithm for the Minimum Cost Lifted Multicut Problem
+l0 Sparse Subspace Clustering
+Normalized Cut meets MRF
+phase-based modification transfer for video
+	Goal: propagating modifications of one frame to subsequent video frames
+Colorful Image Colorization
+Learning Representations for Automatic Colorization
+	colorize an (gray) image
+Best student paper:
+	Focal Flow: Measuring Depth and Velocity with Defocus and Differential Motion
+Top-down Neural Attention by Excitation Backprop
+	See the main contribution part in an image on classification result
+*Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network
+	Goal:
+		• Learning recursive filters via a deep CNN
+		• General framework for low-level vision tasks
+		• A data-driven model which does not consider the original models and the complexity of implementation details
+single image 3d interpreter network
+Dual Structured Light 3D using a 1D Sensor
+Shape acquisition and registration for 3D endoscope based on grid pattern projection
+Spot On: Action Localization from Pointly-Supervised Proposals
+Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking
+	The same author of ECO
+Look-ahead before you leap: end-to-end active recognition by forecasting the effect of motion
+
+Spotlight Sessions:
+learning to refine object segments
+Deep Automatic Portrait Matting
+segmentation from natural language expressions
+Semantic Object Parsing with Graph LSTM
+The Curious Robot: Learning Visual Representations via Physical Interactions
+*Image Co-localization by Mimicking a Good Detector’s Confidence Score Distribution
+Facilitating and Exploring Planar Homogeneous Texture for Indoor Scene Understanding
+an empirical study and analysis of generalized zero-shot learning for object recognition in the wild
+modeling context in referring expressions
+	image caption and find the object with given image caption
+Binary Hashing with Semidefinite Relaxation and Augmented Lagrangian
+Efficient Continuous Relaxations for Dense CRF
+Complexity of Discrete Energy Minimization on Problems
+A Convex Solution to Spatially-Regularized Correspondence Problems
+*precomputed real-time texture synthesis with markovian generative adversarial networks
+%Fast Guided Global Interpolation for Depth and Motion [code available]
+_learning high-order filters for efficient blind deconvolution of document photographs
+%Multi-View Inverse Rendering under Arbitrary Illumination and Albedo
+Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation
+*Identity Mappings in Deep Residual Networks
+%deep networks with stochastic depth
+Less isMore: Towards Compact CNNs
+When is Rotations Averaging Hard?
+CAPTURING DYNAMIC TEXTURED SURFACES OF MOVING TARGETS
+	sensors are used.
+!ShapeFit and ShapeKick for Robust, Scalable Structure from Motion
+Heat Diffusion Long-Short Term Memory Learning for 3D Shape Analysis
+Multi-view 3D Models from Single Images with a Convolutional Network
+Linear Depth Estimation from an Uncalibrated, Monocular Polarisation Image
+!Online Variational Bayesian Motion Averaging
+Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields
