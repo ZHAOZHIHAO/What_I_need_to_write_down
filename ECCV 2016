@@ -69,3 +69,32 @@ Multi-view 3D Models from Single Images with a Convolutional Network
 Linear Depth Estimation from an Uncalibrated, Monocular Polarisation Image
 !Online Variational Bayesian Motion Averaging
 Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields
+ObjectNet3D: A Large Scale Database for 3D Object Recognition
+Branching Gaussian Processes with Applications to Spatiotemporal Reconstruction of 3D Trees
+Target Response Adaptation for Correlation Filter Tracking
+	Short Comment: https://blog.csdn.net/crazyice521/article/details/70244538?locationNum=7&fps=1
+*Learning Image Matching by Simply Watching Video
+A Distance for HMMs based on Aggregated Wasserstein Metric and State Registration
+LIFT: Learned Invariant Feature Transform
+	Using networks to do image matching.
+Learning a Predictable and Generative Representation for Objects
+General Automatic Human Shape and Motion Capture Using Volumetric Contour Cues
+%Globally Continuous and Non-Markovian Crowd Activity Analysis from Videos
+Joint Face Alignment and 3D Face Reconstruction
+Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image
+%Do We Really Need to Collect Millions of Faces for Effective Face Recognition?
+
+Poster session:
+Fundamental Matrices from Moving Objects Using Line Motion Barcodes
+Human Pose Estimation using Deep Consensus Voting
+%Deep Learning the City Quantifying Urban Perception at a Global Scale
+4D Match Trees for Non-rigid Surface Alignment
+EIGEN APPEARANCE MAPS OF DYNAMIC SHAPES
+Real-time RGB-D Activity Prediction by Soft Regression
+A 3D Morphable Eye Region Model for Gaze Estimation
+*FOREGROUND SEGMENTATION VIA DYNAMIC TREE-STRUCTURED SPARSE RPCA
+gaussian process density counting from weak supervision
+Region-based semantic segmentation with end-to-end training
+Fast 6D Object Pose Estimation from a Monocular Image using Hierarchical Pose Trees
+learning models for actions and person-object interactions with transfer to question answering
+A Benchmark and Simulator for UAV Tracking
