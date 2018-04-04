@@ -49,6 +49,8 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
 
 11. NetVLAD: CNN architecture for weakly supervised place recognition
 
+12. Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach
+
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
 https://github.com/openai/universe
