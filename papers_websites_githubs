@@ -53,6 +53,14 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
     Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach CVPR 2017
     Toward robustness against label noise in training deep discriminative neural networks ICLR 2017
     Learning from noisy large-scale datasets with minimal supervision CVPR 2017
+          i.  Their algorithm can be explained with one picture(fig 3). But you probably need to read section 3 to understand figure 3.
+          ii. From table 2(their result), I think their result is not good, since they got only 2(on AP), and 1(on MAP) point precision 
+              increasement, compared to "Fine-Tuning with clean labels", which is a very simple and naive method. They have a very very 
+              complex network compared to simple "Fine-Tuning with clean labels". 
+              I think, compared to "Fine-Tuning with clean labels", of course, the model can get better performance, since it utilizes 
+              prior knowledge. But the result is not much better than simple, naive method.
+          iii. From ii, I think they didn't find the crucial factor, or didn't find a good way, to solve this problem.
+         
     Learning visual n-grams from web data ICCV 2017
     Multi-label fashion image classification with minimal human supervision ICCV 2017
 
