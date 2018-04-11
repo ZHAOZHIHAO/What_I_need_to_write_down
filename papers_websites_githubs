@@ -49,7 +49,12 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
 
 11. NetVLAD: CNN architecture for weakly supervised place recognition
 
-12. Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach
+12. These are learning with nosiy labels:
+    Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach CVPR 2017
+    Toward robustness against label noise in training deep discriminative neural networks ICLR 2017
+    Learning from noisy large-scale datasets with minimal supervision CVPR 2017
+    Learning visual n-grams from web data ICCV 2017
+    Multi-label fashion image classification with minimal human supervision ICCV 2017
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
