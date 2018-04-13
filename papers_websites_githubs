@@ -64,6 +64,8 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
               I think, compared to "Fine-Tuning with clean labels", of course, the model can get better performance, since it utilizes 
               prior knowledge. But the result is not much better than simple, naive method.
           iii. From ii, I think they didn't find the crucial factor, or didn't find a good way, to solve this problem.
+          iv. On the dataset used in paper of Multi-label fashion image classification with minimal human supervision,
+              their method is even worser than "Fine-Tuning with clean labels", lmao.
          
     Learning visual n-grams from web data ICCV 2017
     Multi-label fashion image classification with minimal human supervision ICCV 2017
