@@ -69,6 +69,9 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
          
     Learning visual n-grams from web data ICCV 2017
     Multi-label fashion image classification with minimal human supervision ICCV 2017
+           i. Almost the same models as Learning from noisy large-scale datasets with minimal supervision,
+              the difference can be seen from section 4.2 or Figure 5.
+           ii. Got less than 1 point improvement on metric AP & MAP, compared to "Fine-Tuning with clean labels", see Table 2.
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
