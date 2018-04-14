@@ -15,6 +15,7 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
   detection       73.9        73.1       ImageNet VID
   segmetation     71.1        69.2       Cityscapes
   I think the small loss of accuracy can be ingored.
+  When I test the code, the result is not good at all.
 
 3. One-Shot Video Object Segmentation
    code: http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/
