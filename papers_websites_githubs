@@ -75,6 +75,8 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
            ii. Got less than 1 point improvement on metric AP & MAP, compared to "Fine-Tuning with clean labels", see Table 2.
     
     Iterative Learning with Open-set Noisy Labels CVPR 2018 spotlight
+    
+13. Global Optimality in Neural Network Training
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
