@@ -73,6 +73,8 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
            i. Almost the same models as Learning from noisy large-scale datasets with minimal supervision,
               the difference can be seen from section 4.2 or Figure 5.
            ii. Got less than 1 point improvement on metric AP & MAP, compared to "Fine-Tuning with clean labels", see Table 2.
+    
+    Iterative Learning with Open-set Noisy Labels CVPR 2018 spotlight
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
