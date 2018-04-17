@@ -53,6 +53,7 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
 12. These are learning with nosiy labels:
     Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach CVPR 2017
           See my comment.
+          
     Toward robustness against label noise in training deep discriminative neural networks ICLR 2017
           In this paper, their model are not suitable for unknown T in "Making Deep Neural Networks Robust to Label Noise: a Loss 
           Correction Approach". Known T is used.
@@ -75,6 +76,11 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
            ii. Got less than 1 point improvement on metric AP & MAP, compared to "Fine-Tuning with clean labels", see Table 2.
     
     Iterative Learning with Open-set Noisy Labels CVPR 2018 spotlight
+            The key point in this paper is that they uses a algorithm, based on feature distance, to detect outlier/wrong labeled image.
+            Their whole algorithm can be seen in figure 3.
+            
+    AMBIENTGAN: GENERATIVE MODELS FROM LOSSY MEASUREMENTS ICLR 2018 ORAL
+
     
 13. Global Optimality in Neural Network Training
 
