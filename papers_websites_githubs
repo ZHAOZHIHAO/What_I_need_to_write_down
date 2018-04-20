@@ -90,6 +90,12 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
     Matching Networks for One Shot Learning
          Comment by Andrej Karpathy(OpenAI, Li FeiFei's student)
          https://github.com/karpathy/paper-notes/blob/master/matching_networks.md
+ 
+16. deep learning & unsupervised
+      Clustering with Deep Learning: Taxonomy and New Methods, rejected by ICLR 2018, but nice survey
+            comments by editors: https://openreview.net/forum?id=B1CEaMbR-
+      Learning Discrete Representations via Information Maximizing Self-Augmented Training, ICML 2017 
+
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
