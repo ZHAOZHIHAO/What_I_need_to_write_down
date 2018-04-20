@@ -92,10 +92,14 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
          https://github.com/karpathy/paper-notes/blob/master/matching_networks.md
  
 16. deep learning & unsupervised
-      Clustering with Deep Learning: Taxonomy and New Methods, rejected by ICLR 2018, but nice survey
-            comments by editors: https://openreview.net/forum?id=B1CEaMbR-
+      Clustering with Deep Learning: Taxonomy and New Methods, rejected by ICLR 2018, but a nice survey
+            comments by ICLR reviewers: https://openreview.net/forum?id=B1CEaMbR-
+            
       Learning Discrete Representations via Information Maximizing Self-Augmented Training, ICML 2017 
-
+      
+      CNN-Based Joint Clustering and Representation Learning with Feature Drift Compensation for Large-Scale Image Data
+            Published in: IEEE Transactions on Multimedia ( Volume: 20, Issue: 2, Feb. 2018)
+          
 
 Githubs:
 Openai's platform that you can write your code to play game, then test with this platform. I think it can reduce a lot of your time.
