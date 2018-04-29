@@ -70,6 +70,7 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
               their method is even worser than "Fine-Tuning with clean labels", lmao.
          
     Learning visual n-grams from web data ICCV 2017
+    
     Multi-label fashion image classification with minimal human supervision ICCV 2017
            i. Almost the same models as Learning from noisy large-scale datasets with minimal supervision,
               the difference can be seen from section 4.2 or Figure 5.
@@ -78,7 +79,7 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
     Iterative Learning with Open-set Noisy Labels CVPR 2018 spotlight
             The key point in this paper is that they uses a algorithm, based on feature distance, to detect outlier/wrong labeled image.
             Their whole algorithm can be seen in figure 3.
-            
+    
     AMBIENTGAN: GENERATIVE MODELS FROM LOSSY MEASUREMENTS ICLR 2018 ORAL
             i. This paper is the greatest one in writing I ever read till now. 
             ii. The idea is quite simple that can be said in one sentence: 
@@ -92,6 +93,8 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
                 pixels are set to zero, etc... The discriminator needs to classify if an image is real measurement. Real measurement is 
                 groundtruth that artifically made(so these are used for training the  discriminator), simulated measurement is result of 
                 performing a distortion(f(theta)) on lossless images(so these images want to fool the discriminator).
+
+    learning from noisy single-labeled data, ICLR 2018
 
     
 13. Global Optimality in Neural Network Training
