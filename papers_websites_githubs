@@ -80,6 +80,18 @@ When Saliency Meets Sentiment: Understanding How Image Content Invokes Emotion a
             Their whole algorithm can be seen in figure 3.
             
     AMBIENTGAN: GENERATIVE MODELS FROM LOSSY MEASUREMENTS ICLR 2018 ORAL
+            i. This paper is the greatest one in writing I ever read till now. 
+            ii. The idea is quite simple that can be said in one sentence: 
+                The generator learns the mapping f: image -> nosiy image, by applying its conjectural f' to an image and 
+                sending this image to discriminator.
+                
+                Longer explanation
+                     "rather than distinguish a real image from a generated image as  in a traditional GAN, our discriminator must 
+                     distinguish a real measurement from a simulated measurement of a generated image;" 
+                The word "measurement" in the above sentence means a distorted image. The distorted image may lacks some patchs, or some
+                pixels are set to zero, etc... The discriminator needs to classify if an image is real measurement. Real measurement is 
+                groundtruth that artifically made(so these are used for training the  discriminator), simulated measurement is result of 
+                performing a distortion(f(theta)) on lossless images(so these images want to fool the discriminator).
 
     
 13. Global Optimality in Neural Network Training
