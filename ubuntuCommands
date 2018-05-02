@@ -28,3 +28,8 @@ done
 6. Find available versions for tensorflow   
 curl -s https://storage.googleapis.com/tensorflow |xmllint --format - |grep whl
 https://stackoverflow.com/questions/40416056/how-to-download-previous-version-of-tensorflow
+
+7. Record video on ubuntu via gifine
+Read readme on how to install https://github.com/leafo/gifine 
+Note: 1. When save to a file(*.mp4/*.gif), you need to write the full name with mp4/gif, otherwise you won't get the record video.
+      2. When save a to file, pay attention to the framerate, the default is 60, which is different than the record framerate.
