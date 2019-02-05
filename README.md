@@ -1,1 +1,1 @@
-# learn_to_use_github
+Moved to my Gist: https://gist.github.com/ZHAOZHIHAO
